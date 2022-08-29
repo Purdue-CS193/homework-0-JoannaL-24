@@ -46,7 +46,7 @@ The image is presented from [_Unsplash_](https://unsplash.com/) C:
 - [ ] Task 1
 - [ ] Task 2
 
-# Joanna Lin's First CS1893 Homework
+# Joanna Lin's First CS193 Homework
 - The Instructors and TAs help up with any question ASAP
 - Having the same lecture with my friends from BGRi and the CS180 class
 - C:
