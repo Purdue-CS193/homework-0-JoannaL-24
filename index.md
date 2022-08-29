@@ -43,5 +43,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <sub>Credit to [Aino Aittasalo](https://unsplash.com/@iknowaino)</sub>
 
 A list of something
-- [ ]Task 1
-- [ ]Task 2
+- [ ] Task 1
+- [ ] Task 2
