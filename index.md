@@ -38,10 +38,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Playing w/ the Markdowns
 
-**The image is presented from _Unsplash_ C:**
+The image is presented from _Unsplash_ C:
 ![Photo](https://images.unsplash.com/photo-1661506631731-b7fab51e6233?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1625&q=80)
 <sub>Credit to [Aino Aittasalo](https://unsplash.com/@iknowaino)</sub>
 
-A list of something
+**A list of _something_**
 - [ ] Task 1
 - [ ] Task 2
